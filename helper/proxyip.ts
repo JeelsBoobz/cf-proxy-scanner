@@ -27,7 +27,7 @@ const RAW_PROXY_LIST_FILE = "./rawProxyList.txt";
 const PROXY_LIST_FILE = "./proxyList.txt";
 const IP_RESOLVER_DOMAIN = "myip.jeelsboobz.workers.dev";
 const IP_RESOLVER_PATH = "/";
-const CONCURRENCY = 100;
+const CONCURRENCY = 1000;
 
 const CHECK_QUEUE: string[] = [];
 
